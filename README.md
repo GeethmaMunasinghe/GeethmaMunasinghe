@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Geethma Munasinghe</h1>
-<h3 align="center">Programming Novice| Coding Aficionado | Tech Hobbyist</h3>
+<h3 align="center">Programming Novice</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethmamunasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="geethmamunasinghe" /> </p>
 
