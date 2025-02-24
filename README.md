@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently exploring **Slenium , Software Testing , Java**
+- 🌱 I’m currently exploring **Selenium , Java**
   
 - 🛠️ Passionate about ensuring bug-free, high-quality software
 
